@@ -10,4 +10,6 @@ int main()
     cout << a << endl << b;
     cout << "Sum is:" << endl;
     cout << (a+b) << endl;
+    cout << "Difference is:" << endl;
+    cout << (a-b) << endl;
 }
