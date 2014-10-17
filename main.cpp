@@ -1,5 +1,5 @@
 #include "sdt.h"
-
+//опнцпюллю свеамюъ
 int main()
 {
     int a;
