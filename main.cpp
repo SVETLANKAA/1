@@ -12,4 +12,6 @@ int main()
     cout << (a+b) << endl;
     cout << "Difference is:" << endl;
     cout << (a-b) << endl;
+    cout << "Product is:" << endl;
+    cout << (a*b) << endl;
 }
